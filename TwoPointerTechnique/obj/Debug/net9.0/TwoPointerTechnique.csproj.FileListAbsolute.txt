@@ -1,0 +1,14 @@
+c:\Users\Adam\source\repos\LeetCodePractice\TwoPointerTechnique\bin\Debug\net9.0\TwoPointerTechnique.exe
+c:\Users\Adam\source\repos\LeetCodePractice\TwoPointerTechnique\bin\Debug\net9.0\TwoPointerTechnique.deps.json
+c:\Users\Adam\source\repos\LeetCodePractice\TwoPointerTechnique\bin\Debug\net9.0\TwoPointerTechnique.runtimeconfig.json
+c:\Users\Adam\source\repos\LeetCodePractice\TwoPointerTechnique\bin\Debug\net9.0\TwoPointerTechnique.dll
+c:\Users\Adam\source\repos\LeetCodePractice\TwoPointerTechnique\bin\Debug\net9.0\TwoPointerTechnique.pdb
+c:\Users\Adam\source\repos\LeetCodePractice\TwoPointerTechnique\obj\Debug\net9.0\TwoPointerTechnique.GeneratedMSBuildEditorConfig.editorconfig
+c:\Users\Adam\source\repos\LeetCodePractice\TwoPointerTechnique\obj\Debug\net9.0\TwoPointerTechnique.AssemblyInfoInputs.cache
+c:\Users\Adam\source\repos\LeetCodePractice\TwoPointerTechnique\obj\Debug\net9.0\TwoPointerTechnique.AssemblyInfo.cs
+c:\Users\Adam\source\repos\LeetCodePractice\TwoPointerTechnique\obj\Debug\net9.0\TwoPointerTechnique.csproj.CoreCompileInputs.cache
+c:\Users\Adam\source\repos\LeetCodePractice\TwoPointerTechnique\obj\Debug\net9.0\TwoPointerTechnique.dll
+c:\Users\Adam\source\repos\LeetCodePractice\TwoPointerTechnique\obj\Debug\net9.0\refint\TwoPointerTechnique.dll
+c:\Users\Adam\source\repos\LeetCodePractice\TwoPointerTechnique\obj\Debug\net9.0\TwoPointerTechnique.pdb
+c:\Users\Adam\source\repos\LeetCodePractice\TwoPointerTechnique\obj\Debug\net9.0\TwoPointerTechnique.genruntimeconfig.cache
+c:\Users\Adam\source\repos\LeetCodePractice\TwoPointerTechnique\obj\Debug\net9.0\ref\TwoPointerTechnique.dll
